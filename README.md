@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-Epstein
 - 👀 I’m interested in: Python, Java
-- 🌱 I’m currently learning: Python, Java
+- 🌱 I’m currently learning: Python, Java, MATLAB, TypeScript
 - 💞️ I’m looking to collaborate on: N/A
 - 📫 How to reach me: zalexep1@gmail.com
 
