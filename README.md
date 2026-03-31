@@ -1,5 +1,4 @@
-CS + Math @ Georgia Tech
-reach me at: alexep@gatech.edu
+CS + math @ georgia tech — reach me at: alexep@gatech.edu
 
 <!---
 Alex-Epstein/Alex-Epstein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
