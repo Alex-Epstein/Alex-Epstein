@@ -1,3 +1,4 @@
+CS + Math @ Georgia Tech
 reach me at: alexep@gatech.edu
 
 <!---
