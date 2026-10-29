@@ -25,8 +25,7 @@ Math and computer science at **Georgia Tech** (B.S. May 2028, GPA 3.87). Most of
 | [**AquaVision**](https://github.com/Alex-Epstein/TSMC-AquaVision) | Real-time droplet tracking on 240 fps fluid video, built with TSMC Arizona to catch bubbles before they cost yield. | Python, OpenCV, NumPy |
 | [**Pole Vault AI**](https://github.com/Alex-Epstein/Pole-Vault-AI) | Pose estimation on vault video that scores the takeoff, invert and push-off from joint angles. My high-school senior project. | Python, YOLOv8, OpenCV |
 | [**Appetight**](https://github.com/Alex-Epstein/claude_hackathon) | **Top 10, Claude Builder Hackathon.** An AI nutrition app for iOS built on Claude. | Swift, SwiftUI, Claude API |
-| [**Volee**](https://tinyurl.com/voleeapp) | Tennis matchmaking and ratings, live on the App Store. ([site](https://github.com/Alex-Epstein/volee-website)) | Swift, Supabase, PostGIS, StoreKit |
-| [**internship-watcher**](https://github.com/Alex-Epstein/internship-watcher) | A GitHub Actions bot that polls 200+ job boards and emails a digest the day roles open. | Python, GitHub Actions, pytest |
+| [**Volee**](https://apps.apple.com/us/app/volee-app/id6762168017) | Tennis matchmaking and ladder ratings for junior players, live on the App Store. ([voleeapp.com](https://voleeapp.com)) | Swift, Supabase, PostGIS, StoreKit |
 
 ### Toolbox
 
