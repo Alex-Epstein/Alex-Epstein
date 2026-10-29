@@ -11,7 +11,7 @@ Math and computer science at **Georgia Tech** (B.S. May 2028, GPA 3.87). Most of
 ### Right now
 
 - **Polo Club of Data Science**: getting a 258M-parameter text-to-image model to run entirely in the browser on WebGPU (196 MB, about 3 s an image)
-- **EPIC Lab**: embedded ML on an NVIDIA Jetson for a pediatric exoskeleton, plus the React dashboard clinicians use at Children's Healthcare of Atlanta
+- **EPIC Lab**: moved a pediatric exoskeleton's gait-phase model from a Jetson to a Raspberry Pi and made it fast enough: 21 ms down to 0.74 ms per prediction, zero missed 5 ms deadlines over 145,000+ predictions. I also built the React dashboard clinicians use at Children's Healthcare of Atlanta
 - **Volee**: co-founder; a native iOS tennis matchmaking app with 135+ users and a Glicko-2 rating engine written in PL/pgSQL
 - **Systems Planning & Analysis**: software engineering intern, building a C# graph data platform with LLM semantic search
 - **Trading @ GT**: regime models for volatility forecasting
@@ -26,6 +26,7 @@ Math and computer science at **Georgia Tech** (B.S. May 2028, GPA 3.87). Most of
 | [**Pole Vault AI**](https://github.com/Alex-Epstein/Pole-Vault-AI) | Pose estimation on vault video that scores the takeoff, invert and push-off from joint angles. My high-school senior project. | Python, YOLOv8, OpenCV |
 | [**Appetight**](https://github.com/Alex-Epstein/claude_hackathon) | **Top 10, Claude Builder Hackathon.** An AI nutrition app for iOS built on Claude. | Swift, SwiftUI, Claude API |
 | [**Volee**](https://apps.apple.com/us/app/volee-app/id6762168017) | Tennis matchmaking and ladder ratings for junior players, live on the App Store. ([voleeapp.com](https://voleeapp.com)) | Swift, Supabase, PostGIS, StoreKit |
+| [**FXE Tennis**](https://github.com/Volee-Team/FXE) | Clinic sign-ups, rosters and a courtside admin for a local tennis program, all on one Supabase backend. | Swift, SwiftUI, Supabase, PostgreSQL |
 
 ### Toolbox
 
@@ -35,7 +36,7 @@ Math and computer science at **Georgia Tech** (B.S. May 2028, GPA 3.87). Most of
 
 - **Languages:** Python, C++, C#, TypeScript, Swift, SQL, PL/pgSQL, Java, Bash
 - **ML and data:** PyTorch, TensorFlow, Scikit-learn, OpenCV, YOLOv8, ONNX Runtime Web, Pandas, NumPy
-- **Systems:** PostgreSQL, Supabase, AWS, embedded Linux (Jetson), FastAPI, React, GitHub Actions, Claude Code
+- **Systems:** PostgreSQL, Supabase, AWS, embedded Linux (Raspberry Pi, Jetson), LiteRT, Numba, FastAPI, React, GitHub Actions, Claude Code
 
 ### Honors
 
