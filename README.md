@@ -6,7 +6,7 @@
   <a href="https://devpost.com/zalexep1"><img alt="Devpost" src="https://img.shields.io/badge/Devpost-zalexep1-003E54?style=flat-square&logo=devpost&logoColor=white"></a>
 </p>
 
-Math and computer science at **Georgia Tech** (B.S. May 2028, GPA 3.87). Most of what I build watches something move: droplets in 240 fps video, a kid's gait in an exoskeleton, a pole vaulter in the air, a market switching regimes.
+Math and computer science at **Georgia Tech** (B.S. May 2028, GPA 3.87)
 
 ### Right now
 
@@ -31,7 +31,7 @@ Math and computer science at **Georgia Tech** (B.S. May 2028, GPA 3.87). Most of
 ### Toolbox
 
 <p>
-  <img alt="Tech I use" src="https://skillicons.dev/icons?i=python,cpp,cs,ts,swift,java,postgres,pytorch,tensorflow,opencv,react,aws,linux,fastapi,supabase,git&perline=8">
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=python,cpp,cs,ts,swift,java,postgres,pytorch,tensorflow,opencv,react,aws,linux,fastapi,supabase,git&perline=8">
 </p>
 
 - **Languages:** Python, C++, C#, TypeScript, Swift, SQL, PL/pgSQL, Java, Bash
